@@ -3,16 +3,20 @@ from sales import SalesManagement
 from number import NumberManagement
 
 
-
+# Dasturni ishga tushirish
 if __name__ == "__main__":
     numbers = NumberManagement("numbers.json")
     users = UserManagement("users.json")
     sales = SalesManagement("sales.json")
 
+    # admin login qigan
     admin = False
+    # user login qigan
     user = False
+    # admin paroli 
     admin_password = '0000'
 
+    # Dastur doimiy ishlab turadi chiqilmaguncha
     while True:
         if admin:
             print("\nAdmin menyusi:")
@@ -36,6 +40,7 @@ if __name__ == "__main__":
 
         print("0. Dasturdan chiqish")
 
+        #  tanlov qabul qilish
         choice = input("Tanlang: ")
 
         if admin: 
