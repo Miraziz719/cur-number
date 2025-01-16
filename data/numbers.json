@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "number": "01A420BC",
+        "price": 500000,
+        "status": "sotilgan"
+    },
+    {
+        "id": 2,
+        "number": "01W404LA",
+        "price": 650000,
+        "status": "sotilgan"
+    },
+    {
+        "id": 3,
+        "number": "01W505LA",
+        "price": 660000,
+        "status": "mavjud"
+    },
+    {
+        "id": 4,
+        "number": "01W404LL",
+        "price": 150000,
+        "status": "mavjud"
+    },
+    {
+        "id": 6,
+        "number": "01W405LA",
+        "price": 450000,
+        "status": "mavjud"
+    },
+    {
+        "id": 7,
+        "number": "01Z111ZZ",
+        "price": 1000000,
+        "status": "mavjud"
+    },
+    {
+        "id": 8,
+        "number": "01Z001ZZ",
+        "price": 1500000,
+        "status": "mavjud"
+    }
+]

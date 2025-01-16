@@ -1,0 +1,16 @@
+[
+  {
+      "number": "01A420BC",
+      "price": 500000,
+      "date": "2025-01-15",
+      "user_id": 1,
+      "user_name": "Temur"
+  },
+  {
+      "number": "01W404LA",
+      "price": 650000,
+      "date": "2025-01-15",
+      "user_id": 1,
+      "user_name": "Temur"
+  }
+]
